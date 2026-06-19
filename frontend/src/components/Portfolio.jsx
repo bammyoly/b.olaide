@@ -4,18 +4,18 @@ const projects = [
   {
     title: 'Bursa',
     description: 'A confidential payment protocol for institutions deployed on the Arbitrum Sepolia testnet. Utilizes FHENIX Encryption protocol to ensure private, secure fee transactions.',
-    tags: ['Web3', 'Arbitrum', 'FHE', 'Smart Contracts'],
+    tags: ['Web3', 'React', 'Solidity', 'Smart Contracts'],
     link: 'https://bursa-v1-ten.vercel.app/'
   },
   {
     title: 'Paycript',
     description: 'A confidential payment/payroll app that allows employers/users send private payments powered by Zama FHE.',
-    tags: ['Zama FHE', 'Payroll', 'Privacy', 'React', 'Hardhat'],
+    tags: ['NodeJS', 'Zama FHE', 'ExpressJS', 'Payroll', 'Privacy', 'React', 'Hardhat'],
     link: 'https://paycrypt.vercel.app/'
   },
   {
     title: 'PrivyPad',
-    description: 'PrivyPad is a confidential contest arena that allows users to host and participate in private, trustless competitions where votes are encrypted, results are verifiable, and rewards are distributed on-chain—without exposing individual voting choices.',
+    description: 'PrivyPad is a confidential contest arena that allows users to host and participate in private, trustless competitions where votes are encrypted, results are verifiable, and rewards are distributed on-chain without exposing individual voting choices.',
     tags: ['Solidity', 'Zama FHE', 'Privacy', 'React', 'Hardhat'],
     link: 'https://privy-pad.vercel.app/'
   },
@@ -27,14 +27,14 @@ const projects = [
   },
   {
     title: 'ZeroRemit',
-    description: 'A decentralized application (dApp) engineered for confidential global payments and communications, seamlessly integrated with Reown AppKit.',
+    description: 'A decentralized application (dApp) engineered for confidential global payments and communications, seamlessly integrated with Telegram API.',
     tags: ['dApp', 'Reown AppKit', 'Solidity', 'Tailwind'],
     link: '#'
   },
   {
     title: 'Secure Pay',
-    description: 'A self-development and history-focused platform and YouTube channel. Exploring human psychology, growth, and historical narratives.',
-    tags: ['Content Creation', 'SEO', 'Video Production'],
+    description: 'On-chain confidential payroll system built on Arbitrum Sepolia using Fhenix CoFHE. Employee balances and salary amounts are never exposed on-chain.',
+    tags: ['React', 'Auth', 'Hardhat', 'ExpressJS', 'Hardhat', 'FHENix', 'Web3'],
     link: 'https://securepay-v2-mu.vercel.app/'
   }
 ];
