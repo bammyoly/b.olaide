@@ -9,26 +9,26 @@ const projects = [
   },
   {
     title: 'Paycript',
-    description: 'A confidential payment/payroll app that allows employers/users send private payments powered by Zama FHE.',
+    description: 'Payment/payroll app that allows employers/users send single and multiple private payments powered by Zama FHE.',
     tags: ['NodeJS', 'Zama FHE', 'ExpressJS', 'Payroll', 'Privacy', 'React', 'Hardhat'],
     link: 'https://paycrypt.vercel.app/'
   },
   {
     title: 'PrivyPad',
-    description: 'PrivyPad is a confidential contest arena that allows users to host and participate in private, trustless competitions where votes are encrypted, results are verifiable, and rewards are distributed on-chain without exposing individual voting choices.',
+    description: 'PrivyPad is a contest arena that allows users to host and participate in private, trustless competitions where votes are encrypted, results are verifiable, and rewards are distributed on-chain without exposing individual voting choices.',
     tags: ['Solidity', 'Zama FHE', 'Privacy', 'React', 'Hardhat'],
     link: 'https://privy-pad.vercel.app/'
   },
   {
     title: 'Syntax',
-    description: 'A cutting-edge confidential payment and messaging application leveraging Fhenix Protocol encryption for complete end-to-end user privacy.',
+    description: 'A cutting-edge payment and messaging application leveraging Fhenix Protocol encryption for complete end-to-end user privacy.',
     tags: ['Fhenix Protocol', 'Messaging', 'Privacy', 'React'],
     link: '#'
   },
   {
     title: 'ZeroRemit',
-    description: 'A decentralized application (dApp) engineered for confidential global payments and communications, seamlessly integrated with Telegram API.',
-    tags: ['dApp', 'Reown AppKit', 'Solidity', 'Tailwind'],
+    description: 'A privacy-first payment protocol built on Ethereum for merchants who want modern checkout tooling without giving up transaction privacy.',
+    tags: ['React', 'ExpressJS', 'Prisma', 'Reown AppKit', 'Solidity', 'Tailwind'],
     link: '#'
   },
   {
