@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  /* Overriding --font-sans sets the default font globally across your entire app */
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
